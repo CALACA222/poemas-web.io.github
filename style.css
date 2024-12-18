@@ -97,6 +97,11 @@ p,.poema {
   left: 0;
   margin: 0;
 }
+
+.creditos_footer {
+  font-family: "Playfair";
+  text-transform: capitalize;
+}
 /*Footer*/
 
 footer {
