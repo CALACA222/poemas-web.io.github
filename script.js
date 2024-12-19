@@ -251,53 +251,53 @@ const poemas = [
 },
 //51ro poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Mi metafora perfecta",
+  contenido:"Metáforas y letras trato de encontrar para crear el poema perfecto, pero al mirarte me doy cuenta de que ya está, pues al mirarte no encuentro palabras para expresar lo que llegas a causar. Contigo solo siento y el tiempo queda atrás; todo pasa a segundo plano y ahí, en tus brazos, encuentro mi hogar. Tus labios que arden son donde me quiero quemar, y donde encuentro tus risas me quiero quedar. Y si la tormenta toma prisa y te quiere atrapar, recuerda que a mis brazos puedes volar."
 },
 //52do poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Cortando distancias",
+  contenido:"Latidos unidos por el hilo del destino, que con amor crecen y florecen solo al verte, y caminar de tu mano es mi más grande regalo; el tiempo ha hecho que la distancia ya no sea tan pesada, pues disfruto de verte aunque sea una vez a la semana."
 },
 //53ro poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"La historia sin final",
+  contenido:"Sabes que me gusta leer, y aunque me falta mucho por aprender e historias por descubrir, solo quiero que la historia que estamos escribiendo no tenga fin. Habrá problemas, a veces parecerá que esto puede acabar, pero si tienes dudas y no quieres hablar, por más molesto que esté, solo pide que te abrace y ahí entenderás que, pase lo que pase, por ti voy a pelear."
 },
 //54to poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Una princesa real",
+  contenido:"En la sencillez yace su nobleza,   sin corona, princesa es,   en su ser, la realeza   sin caballero, dama sin estrés.   Ser ella misma, su fortaleza,   brilla con luz propia, ¡oh qué belleza"
 },
 //55to poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"El cuento mas bello",
+  contenido:"En un mundo de sueños y encanto, tu mirada es el cuento más bello. La vida, contigo, es un viaje mágico, donde cada momento es especial. Entre risas y suspiros, te encuentro, en cada mirada, un universo. Juntos, tejemos la tela de los días, con hilos de amor y alegría. En el libro de nuestras vidas, tu nombre brilla como estrella guía. Un cuento, un sueño, hecho realidad, contigo, la vida es más que especial."
 },
 //56to poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Altras mi reloj",
+  contenido:"Bajo el ala del reloj, contemplo el vuelo del tiempo, A tu lado, sus alas son suaves y el viento es lento, Pero sin ti, el tic-tac se vuelve un lamento, Y el reloj se detiene, en un triste tormento. Cada segundo junto a ti, una melodía en mi pecho, Cada momento sin ti, un eco de un viejo despecho, En tu mirada encuentro mi norte, mi rumbo perfecto, Sin ti, el reloj se vuelve un enemigo infecto. En el abrazo del ayer, en el susurro del mañana, Tu presencia da sentido a la vida, mi sirena lejana, Sin ti, el tiempo se desvanece, sin rumbo ni ganas, A tu lado, el tiempo vuela, en un vuelo sin mañana"
 },
 //57mo poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Tus pinceladas de amor ",
+  contenido:"En el lienzo del tiempo,  tú pintas mis días grises,  con pinceladas de amor,  y versos que embellecen el corazón"
 },
 //58vo poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Durmiendo junto a un angel",
+  contenido:"Cuando en la noche encuentro tu aroma, ese que me embriaga y me invita a descansar, acompañado de la calidez, que solo en tus brazos puedo hallar, ahí son buenas noches, pues un ángel me acompaña y mis miedos se van.Dulce? Dulce es tu aroma, ese  dónde encuentro paz, calor? Calor solo hallo en tus brazos pues son mi escape de efría soledad, y la soledad, ella ya no está, pues sabe que contigo, ella aquí  ya no tiene lugar, y no se fue sola,llevó a tristeza y ansiedad dijo que eres tan buena que por un tiempo en mi no las vas encontrar  Mis miedos, si, ellos también se fueron, el miedo a darlo todo, pues estoy seguro que por ti  vale la pena arriesgporque si no es contigo, yo no quiero a nadie mas. "
 },
 //59no poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Hablando con el corazón",
+  contenido:"En el silencio de las palabras no pronunciadas, late un eco que susurra tu nombre. Es como si mi corazón, en un acto de valentía, se presentara ante ti con un sutil hola, mi niña. En ese instante, me pide que no sonrías, pues la sola visión de tu rostro acelera mi pulso y desata un frenesí en mi interior. Me confiesa que ya no hay vuelta atrás, que desde el momento en que decidiste posar tu mirada sobre mí, me convertiste en tuyo sin opción alguna. Y, sinceramente, no deseo escapar de este hechizo, porque al fin y al cabo, ¿quién querría huir de la felicidad?"
 },
 //60mo poema
 {
-  titulo:"",
-  contenido:""
+  titulo:" Más halla de la magia",
+  contenido:"Bajo la sombra de nuestra complicidad, tejiendo historias en un universo particular. En este cuento que entre ambos se cuela, hallé la dicha de un eterno amar. Te confieso, en letras trazadas con ternura, mi impulso de escribirte, de expresar mi sentir. En cada relato, en cada trazo de mi pluma, hallo la razón para contigo existir. Encontré en ti el anhelo de un mañana, un siempre que abarca más allá del tiempo. Contigo, descubrí la magia que emana de un amor que trasciende cualquier lamento."
 },
 //61ro poema
 {
