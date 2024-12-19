@@ -301,102 +301,166 @@ const poemas = [
 },
 //61ro poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Escucha mi corazón",
+  contenido:"¿Escuchas ese tucun tucun? Sí, sin duda es él. Se desespera cuando sabe que te voy a ver, ansioso por salir de mi pecho para poder contemplarte, para posarse en tus manos y dejarte claro que late únicamente por ti Hey, mira, ¿sabes dónde estás? No, me contesta, porque la tristeza le hace sentir mal. Mi pecho se abre y mi corazón empieza a hablar. Si el mundo te pone triste, te agobia y sientes que ya no quieres seguir más, recuerda que en mi pecho late con fervor mi corazón, que está dispuesto a lo que sea solo por verte feliz y mejor."
 },
 //62do poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Mi sol en esta fria soledad",
+  contenido:"Porque el mundo es así  El mundo es un invierno implacable, ese vasto exterior que me toca enfrentar. Sin embargo, tu amor y pasión son el sol que me brinda calor, iluminando mi camino y mostrándome que, contigo, este desierto helado puede florecer en primavera. Y tus besos me ayudan a sentir en paz y mejor, por eso, Si tus besos arden, quémame con pasión. Si tu boca es un veneno, déjame beber de ella y esperar el más grato final. Porque si un beso tuyo es la muerte, estaría gustoso de probarlo y tener un hermoso final"
 },
 //63ro poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Vamos a mirarnos el alma",
+  contenido:"¿Qué te parece si te invito a mirarnos el alma, a tocarnos donde nos marcaron, y dar un beso para su cicatrización, a besarnos sin control, dejando el tiempo en segundo plano, y dando paso a la pasión? Embriágame con tu canto, esa dulce melodía que es tu voz, cuéntame lo que encanta, y lo que detestas de tu alrededor"
 },
 //64to poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Pedazo de cielo a mi lado",
+  contenido:"Luna, deja de mirarla con tanta devoción. Sé que su belleza resplandece como la de una estrella que una vez iluminó los cielos, pero ahora es mía. Puedes estar tranquila, porque atesoraré el pedacito de cielo que me regalaste. Prometo cuidar de él con todo mi amor, apreciando cada destello y cada sombra, protegiéndolo con el mismo fervor con el que se cuida un sueño hecho realidad"
 },
 //65to poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Mi vicio tu mirar",
+  contenido:"Cómo extraño ese dulce atardecer; anhelo verlo otra vez. Aunque apenas ayer te vi, ya es un vicio perderme en tu mirar. Nunca me cansaré de contemplar esos ojos, de en su brillo eterno, mi reflejo hallar."
 },
 //66to poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Gracias solo por estar",
+  contenido:"Ven, dame la mano y no dejemos de intentar. Ven, mira mis heridas y con tu presencia sé que sanarán. Gracias por querer a alguien que es tan difícil de amar, gracias por quedarte cuando ni yo siento que por mi valga la pena luchar"
 },
 //67mo poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Armando lo que la inseguridad rompio en mí",
+  contenido:"Hey, ya vete, ya llevas demasiado tiempo habitando dentro de mí. La verdad, ya estoy harto. Pero no entiendo cómo sacarte de aquí; no puedo estar tranquilo, pues cuando sales, a quien amo llegas a herir. Maldita inseguridad, que no me deja seguir. Te presentas como una tormenta, pintando todo mi día soleado en un oscuro y nublado día gris. Destruyes el arcoíris que ella con tanto esmero pintó para mí, y ella, con tanta paciencia, retoma las piezas y lo vuelve a reconstruir. Y ahí, solo ahí, es cuando vuelvo a sonreír, pues hay alguien que, por más difícil que sea quererme, siente que vale la pena y no se rinde ante ti"
 },
 //68vo poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Mi felcicidad habla de tí",
+  contenido:"¿Por qué sales tan seguido? Ya llevo tiempo viéndote por aquí, le pregunté con curiosidad. Es que esa niña, tan preciosa y divina, como estrella brillante en la noche se adivina. Ella ilumina mi vida, mi sendero, y su risa es el sol que disipa mi desespero. Cada vez que la veo, mi corazón se enciende, en un ritmo alegre, en un latido que sorprende. Su presencia es la brisa que acaricia mi piel, el susurro del viento, el dulce sabor a miel. Es su amor la razón que me impulsa a salir, a buscarla en cada esquina, a soñar y a vivir. Ella es mi musa, mi poema sin fin, la melodía perfecta en mi canto matinal. Así que cuando me ves, es por ella que estoy aquí, siguiendo su luz, en un mundo de amor sin fin. Contesto mi felicidad  y me puse a sonreír "
 },
 //69no poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Ojala pueda ser el dueño de tu corazón",
+  contenido:"Toc, toc, toc, ¿me abres la puerta, por favor? Ya he decidido, quiero vivir en tu corazón, Entrar como dueño, ser tu única razón, De las risas y alegrías, de tu más profundo amor. Quiero ser el dueño de tus noches en desvelo, Donde la incomodidad y el pensar no te dejan soñar, Pues contigo, amor mío, yo te quiero acompañar, Para que sepas que a mi lado, nunca más estarás en duelo. Déjame ser el faro en tu oscuridad, El consuelo en tus lágrimas, la paz en tu ansiedad, Conmigo, solo amor y felicidad hallarás, Y en mis brazos, siempre segura estarás. Así que abre tu puerta, déjame entrar, Prometo ser tu apoyo, tu risa y tu paz, Juntos venceremos cualquier tempestad, Y en mi corazón, para siempre tú estaras"
 },
 //70mo poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"La causa de mi serotonina eres tú",
+  contenido:"Gracias por la serotonina que en mi cuerpo haces brotar,   pues tomas mis penas, las ahuyentas, y las dejas atrás.   Sé que no soy el mejor poeta, ni el más romántico quizás,   pero cada palabra escrita en verso nace al verte a ti brillar. Eres mi musa, la única que me enseñó a amar,   la inspiración que mis días viene a iluminar.   Contigo mis sueños se hacen realidad,   y en tus ojos encuentro la pura felicidad. Por ti los días grises se tornan en color,   y cada noche oscura se llena de tu fulgor.   Eres la melodía que mi alma aprendió a entonar,   el susurro suave que mis penas viene a calmar. Gracias por ser la estrella en mi cielo a guiar,   por ser el latido que no deja de vibrar.   En tus brazos encuentro mi paz, mi verdad,   y en cada verso, nuestro amor quedará inmortalizado, sin más Mi serotonina se activa de inmediato,   cuando tu anatomía contemplo en lo alto.   En tus curvas, dispuesto a morir,   mi corazón pisa a fondo, empieza a latir.   Causas palpitaciones, un nuevo compás,   mi cuerpo en sintonía, una mágica paz.   Sin duda es magia, no hay otra verdad,   que en tu presencia encuentro mi felicidad."
 },
 //71ro poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Días buenos o malos ahí quiero estar",
+  contenido:"Aunque a veces un día gris mi compañía no pueda evitar, sea que disfrutemos del más hermoso arcoíris o que la tempestad no nos deje en paz, contigo siempre estaré, en cada instante, sin cesar, no solo en los días buenos, sino en los malos también te voy a acompañar. Cuando el sol brille y el cielo azul nos haga suspirar, o cuando las nubes oscuras intenten nuestro ánimo apagar, mi amor por ti será un refugio, un puerto al que puedas llegar, porque juntos enfrentamos todo, lo bello y lo que nos hace temblar. En cada risa, en cada llanto, en la calma y en el pesar, mi corazón a tu lado, con un abrazo te sabrá consolar, seré tu fiel compañero, en cualquier lugar y en cualquier azar, porque nuestro amor es fuerte, y juntos nada nos podrá separar."
 },
 //72do poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Con ganas de tí",
+  contenido:"Es otro día que me quedo con las ganas  De mirar tus ojos, y en tus brazos hallar mis mañanas.  Sé que esto es momentáneo, una breve tempestad,  Pues en un futuro tú serás la reina de mi hogar, mi eternidad.Aunque esta distancia no la disfrute, la puedo soportar,  Sabiendo que en el mañana, juntos nos vamos a despertar.  Tu amor es mi consuelo, mi fuerza en la soledad,  Y en tus abrazos, encontre la paz y la verdad.Cada noche sueño con tu piel, tan suave, tan cercana,  Y el dulce susurro de tu voz que mi corazón engalana.  Pronto serás mi reina, mi sol, mi amor eterno,  Y aunque el día de hoy no te pude apreciar, nuestro amor es tan tierno.En el horizonte veo nuestro futuro, brillante y sereno,  Y espero el día en que a tu lado despierte, sin más freno.  La distancia es solo un desafío, una prueba de este amor,  Que se hará más fuerte, más puro, lleno de fervor.Así, aguardo con paciencia, cada día un poco más,  Porque sé que al final, en tus brazos, encontraré mi paz.  Y mientras tanto, te sueño, te extraño, con cada despertar,  Sabiendo que un día, a tan bella reina encontrare en mi hogar"
 },
 //73ro poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"¿Como es que de mí te llegaste a enamorar?",
+  contenido:"Conoces mi mundo, lo que quedó, cuando al borde del colapso mi alma cedió. Tú supiste salvarme, sin dudar, sin temer, has visto a mis demonios, y aún así, sigues en mi ser. Me miraste en mis sombras, me viste sufrir, y a pesar de todo, nunca te alejaste de mí. Ahora dime, amor, con toda sinceridad, ¿cómo es que de mí te llegaste a enamorar? En mis noches más oscuras, tu luz brilló, tu amor incondicional mi vida transformó. Conoces mis temores, mis heridas más profundas, y con cada caricia, mi alma fecunda. Tus palabras dulces, tu ternura sin igual, son las que me hacen soñar con un futuro ideal. Ahora dime, amor,  ¿cómo es que de mí te llegaste a enamorar, alma enamorada?"
 },
 //74to poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"No hay tristeza cuando estas tú",
+  contenido:"Hoy no hay tristeza; al llegar tú, hizo maletas y se fue.  Aunque a veces regresa, su visita es breve,  pues entiende que mientras tú estés aquí,  ella no es bienvenida y debe partir.Se fue, se marchó, y por mucho tiempo ahí se quedó,  porque tu luz ilumina hasta el rincón más oscuro,  y tu presencia transforma mi mundo inseguro.Contigo, la alegría florece y el dolor se desvanece,  cada día a tu lado es un regalo, un presente,  y la tristeza, al verte, pierde su poder,  sabe que en tu abrazo no tiene lugar donde volver.Tu sonrisa es el sol que mi corazón calienta,  tu amor, la razón por la que el alma se alienta.  Gracias a ti, la melancolía no puede permanecer,  pues eres mi refugio, mi paz, mi renacer"
 },
 //75to poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Conoces mis abismos",
+  contenido:"Sé que no soy el mejor, que en mis manos, a veces, te hago daño sin querer, sin ninguna mala intención. Aunque has visto mis abismos y mi peor versión, siento tu amor en cada mirada, en cada canción. Tu sonrisa, como un rayo de sol en la tormenta, me hace olvidar el dolor que en mi alma se asienta. En tus o encuentro estrellas que guían mi camino, en tus brazos, el refugio donde hallo mi destino. Eres el faro en mi noche oscura, mi calma  en la tempestad, la melodía dulce que calma mi ansiedad. Con tu amor,  sombras se disipan, los miedos se desvanecen, y en tu luz, mis sueños renacen y florecen. Eres mi paz, mi cielo estrellado, la esperanza que nunca he dejado. Por ti, sigo soñando con un mañana brillante, donde el amor sea nuestro eterno estandarte."
 },
 //76to poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Tú tristeza es mía",
+  contenido:"Sé que te amo, esa es mi verdad, soy un cobarde que le huye a la tristeza  Pero si tú te pones triste, amor mío, tomaré tu tristeza, la haré mía, pues el El frío no te puede atormentar  No quiero verte llorar, ni un instante, pues tu sonrisa es mi faro constante. Seré tu refugio, tu abrigo en tormenta, el que a tu tristeza siempre enfrenta. Cada lágrima tuya, en mi pecho se posa, convertiré en risa tu pena dolorosa. Déjame ser el sol que tu noche ilumina, el que en tus días oscuros, la esperanza destina. Por ti, cruzaría mares y montañas, cambiaría la tristeza por mil caricias y entrañas. Quiero ver tus ojos brillar como estrellas, y sentir que en tus labios, florecen centellas. Eres mi sueño, mi anhelo profundo, la razón por la que enloquezco y me hundo. En cada latido, en cada suspiro, estás tú, mi amor, mi único delirio. Así que si alguna vez la tristeza te invade, déjame ser el que de tu lado no se aparte. Tomaré tu dolor, lo haré mío sin miedo, para que tú, mi vida, encuentres en mí tu cielo"
 },
 //77mo poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"De a buneas y de a malas",
+  contenido:"Niña de mi vida, niña que me enamoró, Quiéreme en las buenas y cuando el dolor me nubló. Cuando no sepa cómo llamar tu atención, Quiéreme en mi sonrisa y en mi confusión. Ámame de verdad, sin reservas ni temor, Date la oportunidad de entregarlo todo, por favor. Pues te aseguro, mi amor, que yo lo hago sin vacilar, Y aunque temo que alguien te pueda robar. Darte todo es mi forma de demostrar, Cuánto te ama este simple mortal. En cada suspiro, en cada despertar, Eres mi sol, mi luna y mi estrella polar. Cuando la risa me cueste y el llanto me alcance, Sé mi refugio, sé mi mejor chance. Pues en tu abrazo encuentro la paz, En tu amor, mi alma se siente capaz. Así que, niña de mis sueños y anhelos, Deja que este amor nos eleve como velos. Que nuestra pasión sea un fuego inmortal, Tú y yo, juntos, en un amor celestial. "
 },
 //78vo poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Mí amor por tí",
+  contenido:"Es un secreto a voces, en cada rincón conocido, No hay alma que lo ignore, ni corazón que lo haya omitido. Pero si acaso lo olvidas, déjame recordarte, Que este simple humano, sin grandezas a su parte, Te ama con una fuerza que nunca había sentido. Con cada amanecer, en cada tenue rayo, Te llevo en mi pecho, eres mi dulce desmayo. Sin ser impresionante, ni tener brillo deslumbrante, Mi amor por ti crece, es constante y galopante. Eres la musa que inspira mis sueños y anhelos, El faro que me guía en mis días más desvelos. Te amo con una pasión que no tiene medida, Como nunca antes había amado en mi vida. Cada latido de mi corazón susurra tu nombre, Eres el fuego que arde en este humilde hombre. Déjame amarte, sin reservas ni temor, Porque en ti he encontrado mi verdadero amor. Si alguna vez dudas o te sientes perdida, Recuerda que mi amor por ti nunca decaerá en esta vida. Te amo con un fervor profundo y eterno, Y siempre te amaré, más allá del tiempo y del invierno."
 },
 //79no poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Mí mundo sin tí",
+  contenido:"Imagina un mundo sin belleza, sin brillos, Donde los sueños se pierden en sombríos pasillos, Un lugar sin amor, sin gestos tan tiernos, Donde el alma se enfría en inviernos eternos. Así era mi mundo, un desierto de pena, Hasta que apareciste, mi dulce sirena, Con tu atención, tu risa y tu voz melodiosa, Hiciste florecer mi vida, radiante y hermosa. Todo era gris, sin color, sin sentido, Hasta que te encontré, y todo ha revivido, Tu amor trajo colores, tan vivos, tan puros, Pintando mi vida con matices seguros. Cada gesto tuyo, una caricia al viento, Cada palabra, un susurro de aliento, Has llenado de luz mis oscuros rincones, Convirtiendo mis penas en dulces canciones. Tú eres mi sol, mi luna, mi estrella, En este mundo que ahora es tan bello, Gracias a ti, todo tiene razón, Eres la musa que inspira mi canción."
 },
 //80mo poema
 {
   titulo:"",
   contenido:""
 },
-];
+//81ro poema
+{
+  titulo:"",
+  contenido:""
+},
+//82do poema
+{
+  titulo:"",
+  contenido:""
+},
+//83ro poema
+{
+  titulo:"",
+  contenido:""
+},
+//84to poema
+{
+  titulo:"",
+  contenido:""
+},
+//85to poema
+{
+  titulo:"",
+  contenido:""
+},
+//86to poema
+{
+  titulo:"",
+  contenido:""
+},
+//87mo poema
+{
+  titulo:"",
+  contenido:""
+},
+//88vo poema
+{
+  titulo:"",
+  contenido:""
+},
+//89no poema
+{
+  titulo:"",
+  contenido:""
+},
+//90mo poema
+{
+  titulo:"",
+  contenido:""
+},
+//91ro poema
+{
+  titulo:"",
+  contenido:""
+},
+//92do poema
+{
+  titulo:"",
+  contenido:""
+},
+//93ro poema
+{
+  titulo:"",
+  contenido:""
+},];
