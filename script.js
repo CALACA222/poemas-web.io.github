@@ -101,61 +101,302 @@ const poemas = [
 },
 //21ro poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Busacando ser tu refugio",
+  contenido:"Bajo el manto de la noche oscura y fría, Mi princesa, en tus sueños, te envío esta melodía. Que las sombras guarden tus penas y agonía, Mientras te abrazo en mi alma con devoción sombría. Que en tus sueños, guerrera, despliegues tu valentía, Y enfrentes tus demonios con entereza y osadía. Que las estrellas te guíen en esta travesía, Y en cada paso, encuentres paz y armonía. Descansa en mi amor, en esta noche sombría, Que en tus sueños, princesa, siempre estaré, noche y día. En la oscuridad, mi luz te acompañaría, Hasta que el alba rompa esta oscuridad vacía."
 },
 //22do poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Imperfecciones perfectas",
+  contenido:"Mi niña, en tus imperfecciones es donde encuentro la perfección, porque a pesar de que te veas tan dañada o rota, decides darme lo mejor de ti. Como lo dije, para mí no hay nadie más después de ti. Fuiste luz cuando la oscuridad se apoderó de mí, fuiste y eres mi motor cuando siento que no hay nada por qué seguir. Y si no lo ves así, es porque lo estoy haciendo mal. Así me cuesta la vida demostrar que eres lo mejor del mundo, pero lo haré."
 },
 //23ro poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Hermosa de pies a corazón",
+  contenido:"Eres tan hermosa, pero no lo digo por tu piel. Tu belleza se aprecia como cuando, lleno de cansancio, contemplas el atardecer. No solo es lo visual, es el contexto que hay detrás, la historia que se cuenta en ese día. Aunque no haya sido la mejor, ese atardecer te hace desear volverlo  a ver"
 },
 //24to poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Escritos de mi corazón",
+  contenido:"Hay van otros versos, son de esos que ya no tardan en surgir, que solo al pensar en tu sonrisa el cielo deja de ser gris, que solo al pensarte las palabras vuelven a fluir, y de tantas maneras en las que te puedo decir te amo, decido hacerlo con un lápiz en la mano. Puedo escribir una y mil razones por las cuales estar a tu lado me hace feliz, pero hoy decido recordarte que eres mi musa y yo tu aprendiz. Aprendo a querer y aunque aún no sé si lo hago bien, lo hago de corazón, pues es el que guía cuando comienzo a escribir. Y aunque esté algo deteriorado, tus palabras ayudan a que se sienta feliz."
 },
 //25to poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Loca ironía",
+  contenido:"En ti, hallar paz, ¡qué dulce ironía!, Eres mi locura, mi amor, mi poesía"
 },
 //26to poema
 {
-  titulo:"",
-  contenido:""
+  titulo:" Me quiciste aun sabiendo que no soy lo mejor para ti",
+  contenido:"Me quisiste aún sabiendo que soy así, que no me nacía darte flores hasta que entendí que ese simple gesto te hace feliz."
 },
 //27mo poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Aún perdido busco estar para ti",
+  contenido:"  Bajo la luz de esta noche sin fin, no puedo dejar de admirarte, de sentir el miedo de mostrarme tal como soy, temeroso de no ser lo que esperas de mí. Perdóname por compartir lo negativo, pero en esta oscuridad, es lo único que encuentro. Aún así, mi corazón late por ti, sin medida, anhelando el momento en que pueda brillar para ti. Cada momento a tu lado es un regalo divino, aunque a veces me sienta perdido en el camino. Pero en tus ojos encuentro mi guía, y en tu amor, mi razón para seguir cada día. Entonces aquí estoy, desnudando mi alma, con la esperanza de que me aceptes sin calma. Porque a pesar de mis fallas y errores, mi amor por ti sigue siendo el más sincero. Así que perdóname por soltar lo malo, y permíteme mostrarte lo que soy de verdad. En cada verso de este poema sincero, encuentra mi amor, mi ser, mi eterna entrega."
 },
 //28vo poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Perdon por volverte lo mejor de mí",
+  contenido:"Perdón pido por atreverme a escribirte, por tomarte como musa, mas la luna, sincera, no me inspira así."
 },
 //29no poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"La princesa y heroina de mi vida",
+  contenido:"El alma necesitaba ser escuchada, y justo cuando casi sin voz me quedaba, aparece una linda y dulce princesa encantada, tan natural, tan real, auténtica de verdad, cambia mi mundo, y mi deseo más profundo es permanecer a su lado por la eternidad."
 },
 //30mo poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Mi sueño en vida",
+  contenido:"En el éter de la noche, tu presencia resplandece, inundando mi realidad con su luz que enloquece. Cada encuentro contigo, un sueño se desata, un mundo donde no quiero despertar, donde nada se arrebata. Tus ojos son estrellas que guían mi camino, tu voz, un susurro que acaricia mi destino. En la danza del tiempo, eres mi melodía, un sueño eterno que en mi alma perdura cada día. Así, entre sueños y realidades entrelazadas, nuestro amor florece en las noches iluminadas. Y aunque el alba nos separe, y la luz del día aparezca, en mi corazón, tu presencia nunca desaparece."
 },
 //31ro poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Te amo",
+  contenido:"Te amo, te amo sin usar la razón, te amo sin entender por qué lo hago, te amo porque a tu lado todo se vuelve más claro."
 },
 //32do poema
 {
+  titulo:"Mostrando heridas",
+  contenido:"Si ante ti desnudo mi ser, ¿juzgarás mis heridas con desdén, o acaso, admirarás su querer? ¿Mis errores marcarás con afán, o, tomándome la mano, dirás, eso es pasado, volvamos a empezar? Son dudas que en mí se apoderan, cuando el vacío me atrapa sin tregua. Mas cuando llegas, todo se aclara, pues tu apoyo incondicional siempre me ampara."
+},
+//33ro poema
+{
+  titulo:"La estrella más hermosa",
+  contenido:"Nunca vi una estrella tan majestuosa; cuando la vi, dudé. Es así, pues siempre las veía de lejos hasta que te conocí"
+},
+//34to poema
+{
+  titulo:"Eres parte de mi",
+  contenido:"Pueden mis ojos no verte, o mis manos no tocarte, pero de mi corazón y mi alma, ya formas parte"
+},
+//35to poema
+{
+  titulo:"Deseando tus besoso",
+  contenido:"Con besos que encantan, la oscuridad se desvanece, Anhelados y dulces, causan batallas si no me los concedes"
+},
+//36to poema
+{
+  titulo:"Dos corazónes unidos",
+  contenido:"Entre la brisa suave y el sol radiante, cada instante se llena de vida vibrante. Gracias por recargar mi día, con tu luz que nunca se apaga, tu guía. En cada palabra hallamos armonía, un eco de amor que nunca se desvía. Así juntos, en este viaje sin final, nuestros corazones laten en un mismo ritual. Gracias por ser la chispa que enciende la alegría, en este sendero donde cada paso es poesía. Tus besos son un bálsamo que calma el alma, una melodía suave en la noche más calma. En cada roce, en cada susurro, siento que el mundo se detiene, que es más puro. Tu amor es un refugio, un santuario, donde encuentro paz, donde no hay contrarío"
+},
+//37mo poema
+{
+  titulo:"Apostando todo al amor",
+  contenido:"En el casino del amor, jugué mi suerte,  sabiendo que perderlo todo era una certeza.  Pero tu amor, mi tesoro, valió la pena,  y por ti, arriesgo todo en esta danza incierta."
+},
+//38vo poema
+{
+  titulo:"Café",
+  contenido:"Deseo café, el café de tus ojos, esos tan preciosos que causan insomnio en mi ser"
+},
+//39no poema
+{
+  titulo:"Dueña de mi corazón",
+  contenido:"Te invito a pasar un ratito por mi corazón. Ponte cómoda, por favor, ya es tu hogar; te lo adueñaste cuando tu sonrisa me dejaste apreciar."
+},
+//40mo poema
+{
+  titulo:"Mía",
+  contenido:"En el eco de la noche, susurros de deseo, Usted es mía, en cada paso, en cada anhelo. Toco su alma con ternura, la abrazo con pasión, En este universo de amor, todo está en su canción. En cada mirada, un universo revelado, En cada caricia, un nuevo mundo es creado. Usted es mi sueño, mi razón de existir, En este abrazo eterno, todo está por descubrir. Así en el fulgor del día, y en el silencio de la noche, Usted es mía, y en su amor, todo está bien y todo es derroche."
+},
+//41ro poema
+{
+  titulo:"Mi felicidad viene de ti",
+  contenido:"Tu en mi cielo eres la estrella más brillante, humilde e impresionante. Cuando todo estaba oscuro, bajaste, y cuando descubrí la felicidad, te quedaste."
+},
+//42do poema
+{
+  titulo:"Descubriendo el amor",
+  contenido:"Pregúntame qué es querer, y mi respuesta es 'no sé'. Pregúntame qué es amar, y como gran ignorante, conmigo la respuesta no encontrarás. Pero soy más de ciencia, y no puedo quedarme sin poderlo explicar. Por eso, quédate conmigo y descubramos cómo es que es mi forma de amar"
+},
+//43ro poema
+{
+  titulo:"Solo quedate hasta hacerte feliz",
+  contenido:"Quédate. Vamos, dime que sí. Quédate cuando yo dude de mí. Quédate cuando el mundo se me haga inmenso y me dé miedo salir. Quédate porque encontraste algo bueno, porque disfrutas y te hago feliz. Si en algún momento deja de serlo, solo huye de mí."
+},
+//44to poema
+{
+  titulo:"Por y Para tí",
+  contenido:"Cuando la luna sea más fría, o el sol te quite la sed, cuando la lluvia nos empape, no importa dónde estés. Si la angustia te molesta y de nadie quieres saber, y cuando la felicidad te envuelva, ahí me vas a tener"
+},
+//45to poema
+{
+  titulo:"El lugar más hermoso simpre sera donte estes tú",
+  contenido:"Si me vieras como yo te veo, entenderías que en un mundo de cuerpos  imperfectos, tú vuelves perfecto al tuyo, y no lo digo solo por tu piel o por esos ojos que brillan cuando me ven, es por cómo eres, la vida que le das, irradias magia, una esencia especial, y una belleza así es imposible de encontrar, por eso, mi niña, lo más bello y hermoso es poderte apreciar.Palabras para describirte no hay, por eso te pongo como ejemplo lo más hermoso que he podido apreciar. Comparo ojos con el resplandor dorado de los atardeceres más sublimes, tus manos con la suavidad y la delicadeza de las semás exquisitas, y tu voz con la armonía celestial de las mejores melodías. Tú no solo eres bella, eres amor, el ade mi vida y el mejor poema que pude encontrar.Al imaginar un ángel, solo pienso en ti. Ni mil flores se compararían a tu fragancia. Siempre la mejor melodía serávoz. Tus palabras reconfortantes son el refugio que me salva cuando el abismo me traga, y esos ojos que nunca puapartar de mi mente, son faros de luz que iluminan mi camino en la oscuridad más profunda; ni mil atardeceres jamásacercarán a su esplendor."
+},
+//46to poema
+{
+  titulo:"La estrella mas hermosa",
+  contenido:"Contando estrellas me hallarás, pero falta una; y aunque la luna pregunta, no puedo revelar dónde está. Pues es mía, es la verdad, es mi princesa, mi niña y mi amor por la eternidad. Por eso, estrella mía, buenas noches y que tengas un hermoso descansar. Gracias por ser mi estrella fugaz y cumplir mi deseo de encontrar a una hermosa princesa."
+},
+//47mo poema
+{
+  titulo:"Eres mi todo",
+  contenido:"Cuando me preguntan qué eres para mí, la respuesta más simple sería 'mi todo', pero te lo pongo más claro: en geografía, eres mi mundo; en historia, la reina de mi corazón; en matemáticas, la solución a mis problemas; en medicina, la cura para mis dolencias; y si hablamos de mitología, eres mi diosa y yo tu devoto. Para los astrónomos, eres mi universo, y en el arte, eres mi lienzo perfecto que se adapta a mi pincel."
+},
+//48vo poema
+{
+  titulo:"La esperanza halle en tí",
+  contenido:"Sea de día, recién levantado y algo malhumorado; igual en mi mente estás. O en la noche, ya fatigado y algo golpeado por el día laboral, solo pensarte me relaja y al hablarte me recargo, y me dan ganas de mañana despertar."
+},
+//49no poema
+{
+  titulo:"Un mensaje para mi amor",
+  contenido:"Es un mensaje de buenos días, desearía que vieras el más hermoso amanecer, pero ni siquiera eso se compara con la hermosura de este ser. Tus ojos brillan como el sol y tu sonrisa me brinda calor. Al final, no fue un mensaje, solo describí lo hermosa que te ves hoy. El cansancio me ganó, la rutina terminó mi día, pero mi princesa, la luz de mi mundo, me levanta. Sus risas y caricias son mi motor, y como agradecimiento no puedo hacer más que mostrar mi gratitud en versos y metáforas. La luna en tus pupilas está, y el brillo de una estrella tiene tu caminar. La magia de una diosa es tu amar, y todo eso tengo la dicha de disfrutar"
+},
+//50mo poema
+{
+  titulo:"Mi estrella fugaz",
+  contenido:"Eres una estrella en mi vida, una luz en la noche más oscura. Solo pido que la estrella que me ilumina no sea fugaz, que se quede en mi cielo. Todas las noches, antes de irme a acostar, deseo mirarte, y entre besos y caricias, encontrar mi descanso después de un día tan largo. Al despertar, deseo que no sea el sol quien me levante, sino la luz de tu mirar."
+},
+//51ro poema
+{
   titulo:"",
   contenido:""
-},];
+},
+//52do poema
+{
+  titulo:"",
+  contenido:""
+},
+//53ro poema
+{
+  titulo:"",
+  contenido:""
+},
+//54to poema
+{
+  titulo:"",
+  contenido:""
+},
+//55to poema
+{
+  titulo:"",
+  contenido:""
+},
+//56to poema
+{
+  titulo:"",
+  contenido:""
+},
+//57mo poema
+{
+  titulo:"",
+  contenido:""
+},
+//58vo poema
+{
+  titulo:"",
+  contenido:""
+},
+//59no poema
+{
+  titulo:"",
+  contenido:""
+},
+//60mo poema
+{
+  titulo:"",
+  contenido:""
+},
+//61ro poema
+{
+  titulo:"",
+  contenido:""
+},
+//62do poema
+{
+  titulo:"",
+  contenido:""
+},
+//63ro poema
+{
+  titulo:"",
+  contenido:""
+},
+//64to poema
+{
+  titulo:"",
+  contenido:""
+},
+//65to poema
+{
+  titulo:"",
+  contenido:""
+},
+//66to poema
+{
+  titulo:"",
+  contenido:""
+},
+//67mo poema
+{
+  titulo:"",
+  contenido:""
+},
+//68vo poema
+{
+  titulo:"",
+  contenido:""
+},
+//69no poema
+{
+  titulo:"",
+  contenido:""
+},
+//70mo poema
+{
+  titulo:"",
+  contenido:""
+},
+//71ro poema
+{
+  titulo:"",
+  contenido:""
+},
+//72do poema
+{
+  titulo:"",
+  contenido:""
+},
+//73ro poema
+{
+  titulo:"",
+  contenido:""
+},
+//74to poema
+{
+  titulo:"",
+  contenido:""
+},
+//75to poema
+{
+  titulo:"",
+  contenido:""
+},
+//76to poema
+{
+  titulo:"",
+  contenido:""
+},
+//77mo poema
+{
+  titulo:"",
+  contenido:""
+},
+//78vo poema
+{
+  titulo:"",
+  contenido:""
+},
+//79no poema
+{
+  titulo:"",
+  contenido:""
+},
+//80mo poema
+{
+  titulo:"",
+  contenido:""
+},
+];
