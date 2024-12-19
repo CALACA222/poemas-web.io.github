@@ -396,58 +396,58 @@ const poemas = [
 },
 //80mo poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Me disculpo por llegar a desordenar",
+  contenido:"Por favor, disculpa si llegué a tu mundo y lo puse de cabeza, sin pedir permiso, sin previo aviso, sin tu promesa. Sé que es difícil adaptarse a alguien que busca cambiar, pero aún estoy perdido, sin saber qué quiero lograr. En mi caos, tú, princesa, trajiste dulce orden, tu sonrisa y ternura, mi corazón desborden. Me enseñaste una rutina, una nueva realidad, que contigo a mi lado, es pura felicidad. Perdón por alterar tu vida sin previo aviso, es que tú lo hiciste primero, y yo te sigo. Pensé que tal vez, como a mí me fascinó, a ti también te encantaría este amor que nos unió. Si me dejas seguirte, prometo hacerte soñar, con un mundo de amor donde solo tú y yo podemos volar. A tu lado, cada día se convierte en poesía, una melodía de amor, de alegría y fantasía. Perdón si tu mundo trastorné sin preguntar, es que en tu desorden, encontré mi hogar. Y si te atreves a soñar y volar conmigo, seremos dos almas, en un eterno abrigo. Así que, princesa, te pido una oportunidad, de convertir nuestro caos en pura felicidad. Con rimas y versos, te expreso mi sentir, eres mi musa, mi razón para vivir. Y amor, no importa si estás feliz, triste o enojada, de todas formas te ves hermosa, amada. Pero mi forma favorita de verte, sin dudar, es cuando estás feliz, cuando te veo brillar."
 },
 //81ro poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Quisiera ser ese arista que logre deslumbrarte",
+  contenido:"Princesa de mi cuento, ya es hora de partir, Disfruto ser el pincel que, sobre tu piel, arte va a esculpir. Disfruto imaginarte y solo con pensarte, Versos puedo dedicarte, amor puro y constante. Quisiera ser poeta, completo y sincero, Y con mis poemas, hacerte volar ligero. Quisiera ser cantante y a tu oído regalar, Una melodía dulce, que te haga soñar. Quisiera ser pintor y con un cuadro retratar, La belleza infinita que en ti puedo encontrar. Quiero ser tu guardián, la persona que, aunque algo torpe, Siempre te considera su más preciada joya y norte, y de tu mano caminar así el futuro que aunque sea duro contigo amor quiero estar  Y aunque aún no es el momento, ansío el día especial, Cuando en mi cama te vea, al despertar, mi ideal. Hasta entonces, con cada verso, con cada sueño, Te guardo en mi corazón, mi amor eterno y pequeño."
 },
 //82do poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"El Atardecer de Tu Mirada",
+  contenido:"Cuando el reloj marca la hora de partir,  el sol empieza a dibujar su despedida,  y mis pasos cansados encuentran alivio,  como quien se encamina a casa, al fin.Tus ojos, dos soles en el horizonte,  prometen el calor que anhela mi ser,  como el cielo teñido de fuego y calma,  donde el día se rinde a la noche serena.En cada paso hacia ti, siento el peso  de las horas disiparse en el viento,  y mi alma, como el cielo al atardecer,  se tiñe de paz, de promesas cumplidas.Tus brazos, mi refugio al final del día,  como el hogar que aguarda con su abrazo,  y en tu risa, el canto de los pájaros  que celebran el descanso merecido.Así, en tu amor encuentro la tregua,  como quien llega a casa tras la jornada,  y en tus besos, el suave atardecer  que anuncia la calma, la paz renovada."
 },
 //83ro poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Tu mi magía en este mundo tan real",
+  contenido:"Te miro y sonrío; al tocarme, me haces sentir especial.  La magia despierta y empieza a brillar.  Tus ojos son estrellas que guían mi camino,  en tu risa encuentro el refugio divino.Te beso y espero en tu corazón poder habitar.  No hay mujer en el mundo tan especial.  Mi niña, acepta ya que este loco poeta te ama sin igual.  Espero tenerte por la eternidad"
 },
 //84to poema
 {
-  titulo:"",
-  contenido:""
+  titulo:" Mí mas hermosos amanecer",
+  contenido:"En el día cansado, golpeado por la jornada laboral, cuando la confusión me embriaga y la frustración se apodera, ahí, en medio del caos, te encuentro. Eres el atardecer que pinta de oro el cielo, la última luz que acaricia el día con ternura. Cuando la noche se cierne y el mundo se aquieta, tu presencia es la promesa de un nuevo amanecer. Eres el amanecer que disipa la niebla, el primer rayo que ilumina mi alma. Tu amor es el alba que despierta mis sueños, el sol que calienta mis mañanas frías. Eres el refugio en la tormenta, la calma en la tempestad, un remanso de paz cuando no siento a nadie más. Eres ese rincón sereno donde mi alma descansa, la quietud que me envuelve y me libera de la carga. Eres el susurro suave en mis noches intranquilas, el abrazo silencioso que todo lo sana. En tus brazos encuentro la paz, en tu presencia, el descanso, y así, entre metáforas y sueños, me devuelves la esperanza."
 },
 //85to poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"El arte de ser encuentro en usted ",
+  contenido:"Eres arte, no solo por tu belleza física, eres la pintura que aquel artista incomprendido decidió pintar con tal devoción, que al apreciarla, no solo ves el dibujo, sino su emoción. Eres canción, y no esa canción con melodía pegajosa que ahora está de moda, no, eres esa canción que escuchas una vez y es suficiente para entender que letras como esas son difíciles de encontrar y entender, y espero con esto puedas comprender, que eres musa, sirena y mi mujer"
 },
 //86to poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"¿Comó fue?",
+  contenido:"¿Cómo fue que sin conocerte tomaste mi ser, mi alma, mi mente, y mi corazón al revés? Ha pasado un año desde aquel momento, esta noche agradezco por ser mi aliento. Quisiera no ser tan cobarde y en tus oídos, dedicar estos versos mientras siento tus latidos. Tu aroma, tu cuerpo, todo en ti aprecio, sabes que eres mi reina, mi princesa, mi anhelo. Eres mi luz, mi confidente, mi mujer, agradezco cada día por tenerte con placer."
 },
 //87mo poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"La soledad ya no estas desde que estas",
+  contenido:"Ya sea que estés presente en la habitación o no, desde que te conocí, sentirme solo ya no es una opción. A pesar de la distancia que me obliga a dormir sin tu calor, tus palabras y mensajes diarios siempre llegan a mi corazón. Pensarte es mi recordatorio constante de cuánto agradezco tener a mi lado a una mujer tan real, auténtica y radiante, gracias a la vida."
 },
 //88vo poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Avisle a la luna",
+  contenido:" Buenas noches, ¿cómo estás?   ¿Ya le has dicho a la luna    que ya no volverás,   que tu brillo es solo mío   y en mis noches solo brillarás? Que ahora brillas para mí   y aunque sea egoísta,   no te dejaré partir,   pues tu luz es mi guía,   mi estrella en la noche oscura y fría"
 },
 //89no poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Quiero un beso porfavor",
+  contenido:" Un beso se da con los labios. Pero cuando se ama, se siente con el corazón, y con razón, el mío late a mil cuando te lo doy. Quiero un beso no solo hoy, ni mañana, lo quiero siempre, ya sea en la noche o en la mañana, ya sea para descansar, o que con tus labios empiece mi mañana."
 },
 //90mo poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Mirame como a nadie más",
+  contenido:"Mira hacia mi, pero hazlo como si no vieras a nadie más, Porque tu mirada cálida es algo que no puedo dejar de apreciar, es donde encuentro consuelo, es mi refugio  encuentro mi hogar, Tócame, y mientras lo haces, prométeme la exclusividad Porque tus caricias y besos,  sanan mis heridas y me ayudan a levantar, Quiero compartir contigo mis alegrías, Pero promete que cuando caiga no te marcharas, que así como apareciste cua la soledad me ahogaba y no podía respirar, así como rompiste mis cadenas, y me enseñaste lo que es amar, qued aunque páresca que no me pueda salvar"
 },
 //91ro poema
 {
