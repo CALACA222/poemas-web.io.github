@@ -451,15 +451,55 @@ const poemas = [
 },
 //91ro poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Tomame",
+  contenido:"Acércate y tómame, toma mis manos, toma mi alma, toma mi ser. Te pertenezco, eso lo tienes que entender. En tus manos cuelga mi vida, en tus manos encuentro mi bien. Mi corazón ya no es mío, dejó de serlo cuando te empecé a ver. Lo robaste, bueno, ni eso, él se salió de mi pecho y se postró ante tus pies. En ti encontró consuelo y ahora quiere vivir contigo, quiere apreciar tu ser"
 },
 //92do poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Tu mi todo",
+  contenido:"Puede que no posea riquezas ni tesoros,  pero cuando estás a mi lado, siento que lo tengo todo.  ¿Cómo podría no ser feliz,?si en cada uno de tus abrazos encuentro el consuelo y la calma  Tus brazos son mi refugio, mi hogar en medio del caos,  y en ellos hallo la paz que no puedo encontrar en ningún otro lugar.  ¿Cómo no mejorar cada día?si tu presencia en mi vida la convierte en algo tan real y vibranteTu amor transforma mis días grises en coloridos paisajes,  y me enseña que la verdadera riqueza está en la conexión sincera.  Con cada sonrisa tuya, cada gesto, cada palabra,  mi vida se vuelve más auténtica, más llena de significado.  Así que a pesar de las carencias materiales,  me siento pleno y agradecido,  porque en tu amor y compañía descubro un mundo entero,  y en tu abrazo encuentro todo lo que necesito para ser feliz"
 },
 //93ro poema
+{
+  titulo:"Caminemos despacio de la mano amor",
+  contenido:"Hey, detente, camina lento que quiero apreciar tu olor. Vamos despacio, que de por sí el tiempo va rápido cuando estoy contigo. Así que, si el tiempo no se detiene, hagámoslo los dos, y así, si él decide seguir, quedémonos disfrutando el resto de nuestras vidas este amor."
+},
+//94to poema
+{
+  titulo:"Tu mirada mi mundo",
+  contenido:"Se dice que un rey es el dueño del mundo, y al mirar tus ojos, siento que ya soy uno.  Me preguntarás por qué, de eso estoy  seguro  , y como un poeta inexperto ,te describo que es porque en ellos encuentro mi reino y veo mi futuro."
+},
+//95to poema
+{
+  titulo:"Mi camino oscuro se ilumina cuando estas",
+  contenido:" En un camino oscuro me encuentro andando solo, y es solo por ti que no me siento así. Y así de cero pintaste paisajes donde no había nada, y de la nada te volviste mi todo. Todo lo bueno que hay es por ti. Por ti siento que soy feliz con lo que hay por aquí."
+},
+//96to poema
+{
+  titulo:"Amar es verte reir",
+  contenido:"Si entiendo lo que es amar,   es verte feliz, sonreír,   y en tu risa encontrar mi paz,   es un mundo nuevo construir. Es saber que estás bien,   y que en cada batalla,   mi apoyo no tiene fin,   mi lealtad no se halla en vallas. Cuando el mundo está en tu contra,   no estarás sola en tu lucha,   en el campo de batalla,   mi presencia se escucha. En cada obstáculo, en cada pena,   en cada sueño que quieras alcanzar,   seré tu sombra y tu estrella,   y en tu vida, siempre estaré para amar Si creo que entiendo lo que es amar, creo que es verte feliz, sonreír, y así mi mundo se vuelv levantar. Es saber que estás bien y que cuentas conmigo para cualquier batalla que quie enfrentar. Que si el mundo está en tu contra, no estás sola, y en el campo de batalla me encontrarás"
+},
+//97mo poema
+{
+  titulo:"No puedo dejarte de pensar",
+  contenido:"Pensarte es necesario cuando no estás; tu ausencia se convierte en un eco constante en mi mente. Hoy, que estás aquí, no encuentro otra forma de expresar lo que siento sino a través de palabras, antes de que el sueño me envuelva. Cada letra es un intento de capturar la esencia de tu presencia y mi deseo de que te quedes, eternamente presente en mi vida.Gracias por ser mi musa y mi luz en la oscuridad, por iluminar mis días y darle significado a noches. En tu compañía encuentro la inspiración y la claridad que me faltan en la soledad. Quepresencia nunca se apague y siempre seas la guía que ilumina mi camino"
+},
+//98vo poema
+{
+  titulo:"Te quiero ",
+  contenido:"Te quiero de a buenas y de a malas también,   te quiero, con plata y cuando nos falte el pan.   Te quiero como quieren los pobres,   sea en la salud o en la enfermedad.   Te quiero así porque, así como aman los pobres, es el amor   que nunca te va a dejar.   Aunque la riqueza salga por la puerta   y el hambre empiece a entrar,   ten por seguro que conmigo siempre vas a contar."
+},
+//99no poema
+{
+  titulo:" Vamos a comernos con amor",
+  contenido:"Contigo, el sexo deja de ser solo eso y se convierte en amor. Más que eso, es una receta, una de esas antiguas que toma su tiempo para estar lista. Su cocción es a fuego lento, y cada momento en el que espero estar dentro hace que la sensación se intensifique aún más.Por eso en esta noche te pregunto cuando volveremos a cocinar "
+},
+//100mo poema
+{
+  titulo:"Reyna de mis letras y mi corazón",
+  contenido:"Reyna no solo de mi corazón, sino también la dueña de estos textos, estos en que solo muestro, lo afortunado que me siento al poder llamarte amor, y esa es la razón, por la cual a diario, reviso mi diario,  y veo como mi corazón escribe por vos,Feliz cuando te ve, y triste cuando se va, y regresando a casa me reprocha el porque no nos quedaun ratito más"
+},
+//101ro poema
 {
   titulo:"",
   contenido:""
