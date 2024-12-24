@@ -564,63 +564,32 @@ const poemas = [
   titulo:"Tu mi mundo ",
   contenido:"Cómo no te das cuanta que eres mi mundo, si contigo que me quedo mudo cuando ya la cague, mi cerebro se apaga y me dice calla que la puedes perder"
 },
-//114to poema
-{
-  titulo:"",
-  contenido:""
-},
-//115to poema
-{
-  titulo:"",
-  contenido:""
-},
-//116to poema
-{
-  titulo:"",
-  contenido:""
-},
-//117mo poema
-{
-  titulo:"",
-  contenido:""
-},
-//118vo poema
-{
-  titulo:"",
-  contenido:""
-},
-//119no poema
-{
-  titulo:"",
-  contenido:""
-},
-//120mo poema
-{
-  titulo:"",
-  contenido:""
-},
-//121ro poema
-{
-  titulo:"",
-  contenido:""
-},
-//122do poema
-{
-  titulo:"",
-  contenido:""
-},
-//123ro poema
-{
-  titulo:"",
-  contenido:""
-},
-//124to poema
-{
-  titulo:"",
-  contenido:""
-},
-//125to poema
-{
-  titulo:"",
-  contenido:""
-},];
+];
+
+const poemasContainer = document.getElementById('poemas-container');
+
+function mostrarPoemas(poemas) {
+  poemasContainer.innerHTML ='';
+  poemas.forEach(poema => {
+    const tarjeta = 
+    document.createElement('div');
+    tarjeta.classList.add('card');
+    const tituloPoema =
+    document.createElement('h2');
+    tituloPoema.textContent = poema.titulo;
+    const autorPoemas = 
+    document.createElement('p');
+    autorPoemas.textContent = poema.autor;
+    const contenidoPoema =
+    document.createElement('p');
+    contenidoPoema.textContent = poema.contenido;
+
+    tarjeta.appendChild(tituloPoema);
+    tarjeta.appendChild(autorPoemas);
+    tarjeta.appendChild(contenidoPoema);
+
+    poemasContainer.appendChild(tarjeta);
+  });
+}
+
+mostrarPoemas(poemas);
