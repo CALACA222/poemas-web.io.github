@@ -551,18 +551,18 @@ const poemas = [
 },
 //111ro poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"El infinito es el final",
+  contenido:"Te amo una cantidad que con número no puedo explicar o mejor dicho el único valor que le puedo dar es infinito, pues la manera en la que te amo no encuentra final "
 },
 //112do poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"La drogra más adicctiva eres tu",
+  contenido:" De todas las drogas que he probado, el tenete se a vuelto la drogra más fuerte pues me despero cuando no estas, el mirarte me estimula visulamente, poniendo en el centro de todo mi campo visual, el escucharte me envuelve en locura pues solo siento el impulso de quererte abrazar, y cuando te toco, ya estoy completamente loco pues al hacerlo escapo de esta cruda realidad"
 },
 //113ro poema
 {
-  titulo:"",
-  contenido:""
+  titulo:"Tu mi mundo ",
+  contenido:"Cómo no te das cuanta que eres mi mundo, si contigo que me quedo mudo cuando ya la cague, mi cerebro se apaga y me dice calla que la puedes perder"
 },
 //114to poema
 {
