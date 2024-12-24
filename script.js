@@ -501,6 +501,126 @@ const poemas = [
 },
 //101ro poema
 {
+  titulo:"Esperando para despertar a tu lado",
+  contenido:"Espero con ansias el día en que dormir a tu lado sea una realidad! Para en la noche, como un guardián leal, ponerte en mis brazos y que en mi pecho te puedas acurrucar! Acariciar tu cabeza y, como una obra de arte, contemplarte mientras empiezas a descansar! Así, con la dicha de tenerte a mi lado, poder despertar!"
+},
+//102do poema
+{
+  titulo:"La inspiracion de mis días",
+  contenido:"Se dice que en los ojos correctos uno puede ver arte, y ante mis ojos, tú eres una verdadera obra maestra. Eres el ser brillante que no solo me inspira a escribir poesía, sino también a seguir adelante cada día. Eres, sin duda, un ser perfecto y refinado, no solo por tu belleza que se revela a simple vista, sino también por la calidad de cada palabra y caricia que de ti recibo. Te admiro profundamente y te amo más de lo que las palabras pueden expresar. A través de este texto, quiero agradecerte por ser parte de mi historia, que antes era monótona y aburrida, hasta que llegaste tú para darle sentido y color a mi vida."
+},
+//103ro poema
+{
+  titulo:"De mi mente no te puedo sacar",
+  contenido:"Dime qué voy a hacer si en mi mente estás, y no es que vayas y vengas, simplemente solo estás, y no me malinterpretes, no te quiero sacar, claro que no, si es lo único bueno que en mí puedo encontrar, entre pensamientos caóticos, entre el estrés y en muchos casos la ansiedad. Me alegra que te apoderes de mi mente, ya que gracias a eso en mi cabeza encuentro paz"
+},
+//104to poema
+{
+  titulo:"Un te quiero desde el corazón",
+  contenido:"Te digo que te quiero, pero no es solo con la voz, y tú ya entendiste que lo dice el corazón. De corazón, cada 'te amo' es puro y sincero. Y siendo sincero, espero tenerte en las buenas, obvio que sí, y en las malas no huyas de mí."
+},
+//105to poema
+{
+  titulo:"Entre el rudio que me atormenta tu voz mi paz",
+  contenido:"Cuando entre gritos busco el silencio, tu voz me da paz, es mi despertar, y despertar de este sueño que tengo contigo jamás, y así jamás te irás, pues en tus manos encontré refugio, en tus besos mi hogar, y en tu corazón es donde quiero habitar, y así con la mirada en el cielo gritar a los cuatro vientos lo que es el amor de verdad"
+},
+//106to poema
+{
+  titulo:"Lento lento amor",
+  contenido:"Lento lento como hacerte el amor, es pasar mis deseos sobre tu interior, tocarle el alma y el corazón, y entre tus sábanas desenfreanrme hoy, está noche te apoderaste de mi mente, y de manera demente hoy me hace falta tus besos tu aroma y tu voz Lento, lento, como el ritmo de una pasión contenida,  Deslizo mis deseos, como tinta en una carta perdida,  Toco tu alma y tu corazón, en cada latido sin medida,  Y entre tus sábanas busco perderme, en una danza compartida.Esta noche, tu esencia se apodera de mi mente inquieta,  Como un fuego que arde sin freno, mi deseo se inquieta,  Anhelo tus besos, tu aroma, y esa voz que me despierta,  Cada pensamiento tuyo es una llama ardiente que nunca se aleja"
+},
+//107mo poema
+{
+  titulo:"Rosa Negra",
+  contenido:"En el jardín de los sueños quebrados,  donde el tiempo se torna eterno y gris,  florece una rosa negra, solitaria,  bajo el manto de un cielo sin matiz.Sus pétalos, sombras de la noche,  sus espinas, susurros de dolor,  cada gota de rocío en su fragancia  es un lamento de amor y desamor.No es en su oscura esencia la maldición,  sino en la promesa de lo que se oculta:  un deseo de transformación y redención,  una historia que el corazón sepulta.Por cada rosa negra que en tus manos caiga,  encierra el misterio de un amor profundo,  donde el final y el comienzo se abrazan,  en el enigma de un ciclo sin mundo."
+},
+//108vo poema
+{
+  titulo:"En el vasto mundo a tu lado me hallo",
+  contenido:"En el vasto mar de tu ser profundo, donde los sueños y deseos se encuentran, soy un iceberg, tranquilo y moribundo, que en tu amor inmenso se sustenta. Bajo el hielo frío de mi apariencia, se oculta un mundo ardiente y candente, donde la pasión se revela en presencia, como llamas ocultas en un océano latente. Solo tú, con tu cálido resplandor, has derretido mis capas de hielo, mostrando al mundo mi núcleo de amor, como el sol que en el polo descubre el cielo. Tu luz ha roto el hielo que me encierra, y en tu calidez, he aprendido a abrirme, como un iceberg en primavera que se desgarra, en tu presencia, me permito finalmente ser. En el vasto cielo de mi vida, tú eres mi estrella más brillante. Aunque los días puedan nublarse y las noches se tornen largas, quiero que sepas que cada instante a tu lado es un regalo que atesoro profundamente. Tus lágrimas son preciosas, y en cada una de ellas veo el reflejo de tu fortaleza y de la bell que llevas dentro. Aunque las sombras de la tristeza y la ansiedad te envuelvan, quiero ser la  que te guía, el refugio donde encuentras paz. Eres el latido de mi corazón, el susurro de mis sueños, y no hay nada que desee más que ve sonreír con la alegría que mereces. Mi amor por ti es infinito, y agradezco cada día que pasa juntos. Nunca olvides que, a pesar de las tormentas, siempre estaré a tu lado, dispuest sostenerte y a compartir cada momento de la travesía. Eres mi todo, y mi vida no sería completa sin ti. Gracias por ser tú y por permitir que forme pa de tu historia. Juntos, podemos enfrentar cualquier desafío, y cada día a tu lado es una bendición."
+},
+//109no poema
+{
+  titulo:"Tu en mi mente mi esperanza",
+  contenido:"En cada pensamiento tuyo encuentro una chispa de esperanza que ilumina mi camino. Aunque la vida nos presente retos, saber que tengo a alguien tan maravilloso como tú en mi vida es la fuerza que me impulsa a seguir adelante. Tu presencia es el faro que guía mis días y tu amor, el aliento que renueva mi ánimo. Imagi nuestro futuro juntos me llena de una determinación renovada; tus sueños y los nuestros comparti son el motivo por el cual me levanto con esperanza cada mañana. Eres la razón de mi alegría y el motor de mi perseverancia. Cada momento contigo es un tesoro  valoro profundamente, y tu felicidad es mi mayor deseo. Estoy aquí para ti, siempre, para abraza en las dificultades y celebrar cada victoria, por pequeña que sea. Gracias por ser mi inspiración y por darme la motivación para seguir adelante. Eres mi vida, mi a y mi motivo para luchar."
+},
+//110mo poema
+{
+  titulo:"Quiero compartir mí tiempo contigo",
+  contenido:"Tiempo compartido, momentos de amor, Con cada segundo, mi corazón late más fuerte. En tu presencia, todo brilla con más luz, Y mi alma se llena de alegría y calor. Cada instante contigo es un regalo divino, Un tesoro que atesoro en lo profundo de mi ser. Tu sonrisa es el sol que ilumina mi día, Y tu amor es el aire que me hace vivir. Así que gracias, mi amor, por estar aquí, Por compartir conmigo tus momentos más queridos. Eres la melodía que hace cantar mi corazón, Y contigo, todo es más bello y verdadero."
+},
+//111ro poema
+{
+  titulo:"",
+  contenido:""
+},
+//112do poema
+{
+  titulo:"",
+  contenido:""
+},
+//113ro poema
+{
+  titulo:"",
+  contenido:""
+},
+//114to poema
+{
+  titulo:"",
+  contenido:""
+},
+//115to poema
+{
+  titulo:"",
+  contenido:""
+},
+//116to poema
+{
+  titulo:"",
+  contenido:""
+},
+//117mo poema
+{
+  titulo:"",
+  contenido:""
+},
+//118vo poema
+{
+  titulo:"",
+  contenido:""
+},
+//119no poema
+{
+  titulo:"",
+  contenido:""
+},
+//120mo poema
+{
+  titulo:"",
+  contenido:""
+},
+//121ro poema
+{
+  titulo:"",
+  contenido:""
+},
+//122do poema
+{
+  titulo:"",
+  contenido:""
+},
+//123ro poema
+{
+  titulo:"",
+  contenido:""
+},
+//124to poema
+{
+  titulo:"",
+  contenido:""
+},
+//125to poema
+{
   titulo:"",
   contenido:""
 },];
