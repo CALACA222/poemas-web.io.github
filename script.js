@@ -593,3 +593,16 @@ function mostrarPoemas(poemas) {
 }
 
 mostrarPoemas(poemas);
+
+
+const campoBusqueda = 
+document.getElementById("buscar-poemas");
+campoBusqueda.addEventListener('input', function(event) {
+  const textoBusqueda = event.target.value.toLowerCase();
+
+  const poemasFiltrados =
+  poemas.filter(poema =>
+    poema.titulo.toLowerCase ().includes(textoBusqueda));
+
+    mostrarPoemas(poemasFiltrados);
+});
